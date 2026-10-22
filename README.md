@@ -1,3 +1,19 @@
+# Mini Projects 
+# Movie Recommendation System using Python
+
+1. I am planning to build a Movie Recommendation System using Python.
+2. The project aims to recommend movies based on user preferences.
+3. I will explore how recommendation systems work.
+4. I plan to use a movie dataset for analysis.
+5. Pandas will be used for data manipulation.
+6. NumPy will help with numerical operations.
+7. I will explore Scikit-learn for machine learning techniques.
+8. I plan to implement content-based filtering.
+9. The project will help me learn data preprocessing and cosine similarity.
+10. This project is currently in the planning stage.
+
+
+
 # spiders-applied-aiml-foundation
 
 A beginner-friendly Python repository that explores core programming concepts, including variables, data types, conditional statements, data structures, loops, functions, file handling, and object-oriented programming (OOP), with easy-to-understand examples.
